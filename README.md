@@ -1,2 +1,2 @@
 # prework-study-guide
-Boot camp rework study
+Boot camp prework study
